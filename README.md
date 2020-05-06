@@ -33,9 +33,7 @@
 ## 📝 Tabela de conteúdos
 
 - [Sobre](#about)
-- [Iniciando](#getting_started)
 - [Preview](#preview)
-- [Testes](#tests)
 - [Uso](#usage)
 - [Construído utilizando](#built_using)
 - [Authors](#authors)
